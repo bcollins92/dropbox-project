@@ -21,7 +21,8 @@ This app also utilises a project repository for storing common artefacts, anothe
 
 ## 2. Code Highlights
 
-Custom authentication filter [here](https://github.com/bcollins92/user-service/blob/main/src/main/java/com/bc92/userservice/authn/CustomUsernamePasswordAuthenticationFilter.java)  
+
+Rich domain model for directory structure [here](https://github.com/bcollins92/directory-service/blob/main/src/main/java/com/bc92/directoryservice/model/Directory.java)  
 REST API for files [here](https://github.com/bcollins92/directory-service/blob/main/src/main/java/com/bc92/directoryservice/restapi/FileController.java) and service layer [here](https://github.com/bcollins92/directory-service/blob/main/src/main/java/com/bc92/directoryservice/service/FileService.java)  
 REST API for folders [here](https://github.com/bcollins92/directory-service/blob/main/src/main/java/com/bc92/directoryservice/restapi/FolderController.java) and service layer [here](https://github.com/bcollins92/directory-service/blob/main/src/main/java/com/bc92/directoryservice/service/DirectoryService.java)  
-Rich domain model for directory structure [here](https://github.com/bcollins92/directory-service/blob/main/src/main/java/com/bc92/directoryservice/model/Directory.java)  
+Custom authentication filter [here](https://github.com/bcollins92/user-service/blob/main/src/main/java/com/bc92/userservice/authn/CustomUsernamePasswordAuthenticationFilter.java)  
